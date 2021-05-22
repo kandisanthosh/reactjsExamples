@@ -3,7 +3,6 @@ import React, { Component } from "react";
 export default class DeafultPropertiesDemo extends Component {
   constructor(args) {
     super();
- 
     console.log("Deafult properties Demo !!!");
   }
   defaultProps= {
